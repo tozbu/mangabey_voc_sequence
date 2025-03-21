@@ -10,6 +10,7 @@ The model accounts for
 #  Applicability
 This model can thus be used for samples with unbalanced datasets on each individual and can be used to compare individuals across age, sex, populations and even species. 
 It can be apply to single signals but also, like here, to signal combinations (call sequences or gesture sequences). 
+A detail description of the model can be found at: Communications Biology, 8:465. https://doi.org/10.1038/s42003-025-07922-2 
 
 #  Citation
 Sigmundson, R., Girard-Buttoz, C., Le Floch, A., Souha Azaiez, T., McElreath, R., Zuberbühler, K., Wittig, R. M., & Crockford, C. (2025). Vocal sequence diversity and length remain stable across ontogeny in a catarrhine monkey (Cercocebus atys). Communications Biology, 8:465. https://doi.org/10.1038/s42003-025-07922-2
